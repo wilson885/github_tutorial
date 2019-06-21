@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KinectView\Scripts\BodySourceView.cs">
+    <Files>
+      <File FileName="Assets\Myo\Scripts\Myo.NET\EventTypes.cs" Line="99" Column="2" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\libmyo.cs" Line="247" Column="4" />
+      <File FileName="Assets\Myo\Scripts\Myo.NET\Myo.cs" Line="252" Column="2" />
+      <File FileName="Assets\Myo\Scripts\ThalmicMyo.cs" Line="200" Column="2" />
+      <File FileName="Assets\Myo Samples\Scripts\JointOrientation.cs" Line="71" Column="33" />
+      <File FileName="Assets\EMG01.cs" Line="14" Column="30" />
+      <File FileName="Assets\EMG02.cs" Line="14" Column="30" />
+      <File FileName="Assets\KinectView\Scripts\BodySourceView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
