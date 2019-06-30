@@ -1,4 +1,3 @@
-![](https://i.imgur.com/7f4Q9QR.jpg)
 # github教學
 1. git init 初始
 2. git remote add origin
